@@ -1,6 +1,6 @@
 <img src="https://github.com/Afkanerd/Afkanerd-Resources/raw/main/images/Artboard%209.png" align="right" width="350px"/>
 
-# Deku-Python
+# Deku-SDK-Python
 
 Afkanerd Deku Python Library
 
@@ -19,19 +19,19 @@ $ . venv/bin/activate
 
 ```bash
 $ pip install --upgrade pip wheel
-$ pip install "git+https://github.com/Afkanerd/Deku-Python.git@main#egg=DekuPython"
+$ pip install "git+https://github.com/Afkanerd/Deku-SDK-Python.git@main#egg=DekuPython"
 ```
 
 Install upgrades
 
 ```bash
-$ pip install --force-reinstall "git+https://github.com/Afkanerd/Deku-Python.git@main#egg=DekuPython"
+$ pip install --force-reinstall "git+https://github.com/Afkanerd/Deku-SDK-Python.git@main#egg=DekuPython"
 ```
 
 ### From source
 
 ```bash
-$ git clone https://github.com/Afkanerd/Deku-Python.git
+$ git clone https://github.com/Afkanerd/Deku-SDK-Python.git
 $ cd Deku-Python
 $ python3 setup.py install
 ```
